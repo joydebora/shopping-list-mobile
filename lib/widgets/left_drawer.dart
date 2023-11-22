@@ -62,7 +62,7 @@ class LeftDrawer extends StatelessWidget {
                 Navigator.pushReplacement(
                     context,
                     MaterialPageRoute(
-                    builder: (context) => ShopFormPage(),
+                    builder: (context) => const ShopFormPage(),
                     ));
             },
             ),
@@ -73,7 +73,7 @@ class LeftDrawer extends StatelessWidget {
                 // Route menu ke halaman produk
                 Navigator.push(
                 context,
-                MaterialPageRoute(builder: (context) => ProductPage()),
+                MaterialPageRoute(builder: (context) => const ProductPage()),
                 );
               },
             ),
