@@ -15,3 +15,10 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# shopping-list-mobile" 
+
+## Publikasi Aplikasi
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/8b987b47-6e7b-484a-a099-a29461025aac/branches/main/badge)](https://appcenter.ms)
+
+Public page:
+install.appcenter.ms/orgs/shop_pbp/apps/shopping-list/distribution_groups/public
